@@ -1,6 +1,6 @@
 -- SPDX-License-Identifier: MIT
 
-time_for_despawn = 1 * 60 * 1000 -- duration (ms)
+time_for_despawn = 5 * 60 * 1000 -- duration (ms)
 time_for_loaded = 2 * 60 * 1000 -- duration (ms)
 
 g_savedata = {
